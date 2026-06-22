@@ -5,24 +5,34 @@ import { X } from "lucide-react";
 
 const photos = [
   {
-    src: "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=900&q=80",
-    alt: "Fragrant Butter Chicken served with basmati rice",
+    src: "/images/gallery/1.jpg",
+    alt: "Signature Sizzling Platter",
     category: "food"
   },
   {
-    src: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=900&q=80",
-    alt: "Crispy Samosa Chaat with mint and tamarind chutneys",
+    src: "/images/gallery/2.jpg",
+    alt: "Tandoori Skewers",
+    category: "food"
+  },
+  {
+    src: "/images/gallery/3.jpg",
+    alt: "Spicy Indo-Chinese Meatballs",
+    category: "food"
+  },
+  {
+    src: "/images/gallery/4.jpg",
+    alt: "Authentic Matka Specialties cooking",
+    category: "food"
+  },
+  {
+    src: "/images/gallery/5.jpg",
+    alt: "Freshly Baked Naan straight from our Tandoor",
     category: "food"
   },
   {
     src: "/images/videsi-mark-circle.png",
     alt: "Videsi Signature Diamond Logo",
     category: "vibe"
-  },
-  {
-    src: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=900&q=80",
-    alt: "Slow-simmered Dal Makhani in a traditional bowl",
-    category: "food"
   },
   {
     src: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80",
@@ -33,16 +43,6 @@ const photos = [
     src: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=900&q=80",
     alt: "Spiced Mango Cardamom cocktail with star anise",
     category: "drinks"
-  },
-  {
-    src: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&q=80",
-    alt: "Sizzling Tandoori Platter straight from the clay oven",
-    category: "food"
-  },
-  {
-    src: "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=900&q=80",
-    alt: "Indo-Chinese Chilli Chicken with green onions and bell peppers",
-    category: "food"
   },
   {
     src: "https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&w=900&q=80",
@@ -58,11 +58,6 @@ const photos = [
     src: "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=900&q=80",
     alt: "Warm hospitality and dining tables ready for guests",
     category: "vibe"
-  },
-  {
-    src: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=900&q=80",
-    alt: "Wok-fried Hakka Noodles with fresh vegetables",
-    category: "food"
   }
 ];
 
